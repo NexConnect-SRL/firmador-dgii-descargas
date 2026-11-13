@@ -1,0 +1,41 @@
+LICENCIA DE USO CON CÓDIGO VISIBLE — FIRMADOR DGII e-CF
+Versión 1.0 · 2026
+
+Copyright © 2026 NexConnect Solutions SRL (RNC 132901322). Todos los derechos reservados.
+Autor: Juan Tomás Pérez.
+
+1. Qué es esto
+El Firmador DGII e-CF (el «Software») es propiedad de NexConnect Solutions SRL (el «Titular»). Su código fuente es visible, pero NO es software libre ni de código abierto. Esta licencia te da solo los permisos que se enumeran abajo; todo lo demás queda reservado al Titular.
+
+2. Lo que SÍ puedes hacer, gratis
+a) Descargar e instalar el Software desde los canales oficiales del Titular.
+b) Usarlo, tal como se entrega y sin modificarlo, para firmar los documentos XML de tu persona física o empresa, o los de tus clientes si les prestas servicios contables o técnicos.
+c) Leer, revisar y auditar el código fuente, y compilarlo sin cambios solo para comprobar que corresponde a la versión publicada.
+d) Informar al Titular de errores o vulnerabilidades.
+
+3. Lo que NO puedes hacer sin permiso escrito del Titular
+a) Modificar el Software o su código, traducirlo, adaptarlo o crear obras derivadas.
+b) Quitar, cambiar o tapar el nombre, el logo, los avisos de autoría o de copyright, ni ponerle otra marca («rebrandearlo»).
+c) Distribuir, publicar, vender, alquilar, sublicenciar o compartir copias del Software o de su código, modificadas o no, por cualquier medio. Para que otros lo obtengan, enlaza a la página oficial de descarga.
+d) Ofrecer el Software, o un servicio basado en él, como producto propio o de un tercero.
+e) Usar partes del código en otros programas.
+f) Descompilar o hacer ingeniería inversa de los ejecutables, salvo lo que la ley permita expresamente.
+
+Las mejoras o cambios que propongas solo se incorporan si el Titular las acepta, y al enviarlas le cedes el derecho de usarlas.
+
+4. Marcas
+«NexConnect», «NexFacturas», «Firmador DGII» y sus logos son signos distintivos del Titular. Esta licencia no da ningún derecho sobre ellos.
+
+5. Tu certificado y tus datos
+El Software funciona en tu equipo. No envía tu certificado, tu contraseña ni tus documentos a ningún servidor. Envía estadísticas anónimas de uso (el evento, la versión, el sistema y un identificador de instalación al azar), que puedes desactivar en «Acerca de»; nunca envía el certificado, la contraseña, los documentos ni sus datos. Eres responsable de custodiar tu certificado digital y tu contraseña.
+
+6. Sin garantías
+El Software se entrega «tal cual», sin garantía de ningún tipo. No es una herramienta oficial de la Dirección General de Impuestos Internos (DGII) ni está afiliado a ella. En la medida que permita la ley, el Titular no responde por daños, pérdidas, rechazos de la DGII ni sanciones derivadas de su uso.
+
+7. Terminación
+Si incumples esta licencia, los permisos que te da terminan de inmediato, y debes dejar de usar y borrar el Software y cualquier copia.
+
+8. Ley aplicable
+Esta licencia se rige por las leyes de la República Dominicana, incluida la Ley 65-00 sobre Derecho de Autor. Cualquier controversia se somete a los tribunales de Santo Domingo.
+
+Permisos, contacto y licencias especiales: NexConnect · nexconnect.do · WhatsApp 849-245-4443
